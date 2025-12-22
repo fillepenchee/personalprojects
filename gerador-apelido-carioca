@@ -7,7 +7,7 @@ def a():
         print(f"Deseja gerar mais um? \n Digite 'S' para Sim e qualquer outra tecla para Não: \n")
         i = input()
 
-listageral = ["Cordão de Prata", "Corrente de Ouro", "Pepita", "Brilhantes", "Diamante", "Seis Anéis", "Dentinho de Ouro", "Tiara Dourada", "Tiarinha", "Tiaras", "Rei/Rainha do Ouro", "Ouro de Tolo", "Joias", "Joalheiro", "Esmeralda", "Turmalina", "Rubis", "Medalhão", "Mil Pulseiras", "Ouro Rosa", "das Bijus", "Prata Pura", "Colar de Diamantes", "Brinco de Ouro", "Argola de Prata", "Bracelete", "Ali Babá", "Cristais", "Topázio", "Safira", "Ametista", "Ourives", "Pedras Preciosas", "Gemas Valiosas", "Terras Raras", "Altos Valores", "Grandes Somas", "Valores", "Numerário", "Fortuna", "Lingote", "Tesouro", "Tesoureiro(a)", "Moedas", "Luxo Puro", "Petróleo", "Petrodólares", "Paraíso Fiscal"]
+listageral = ["Cordão de Prata", "Corrente de Ouro", "Pepita", "Brilhantes", "Diamante", "Seis Anéis", "Dentinho de Ouro", "Tiara Dourada", "Tiarinha", "Tiaras", "Rei/Rainha do Ouro", "Boca Rica", "Ouro de Tolo", "Joias", "Joalheiro(a)", "Esmeralda", "Turmalina", "Rubis", "Medalhão", "Mil Pulseiras", "Ouro Rosa", "das Bijus", "Prata Pura", "Colar de Diamantes", "Brinco de Ouro", "Argola de Prata", "Bracelete", "Ali Babá", "Cristais", "Topázio", "Safira", "Ametista", "Ourives", "Pedras Preciosas", "Gemas Valiosas", "Terras Raras", "Altos Valores", "Grandes Somas", "Valores", "Numerário", "Fortuna", "Lingote", "Tesouro", "Tesoureiro(a)", "Moedas", "Luxo Puro", "Petróleo", "Petrodólares", "Paraíso Fiscal"]
 
 print("Escreva seu primeiro nome: \n")
 nome = input()
